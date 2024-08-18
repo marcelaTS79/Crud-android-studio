@@ -1,0 +1,3 @@
+dependencies {
+    classpath(libs.symbol.processing.gradle.plugin)
+}
